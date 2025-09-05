@@ -1,0 +1,24 @@
+# Core Streamlit and Data Processing
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization Libraries
+plotly>=5.15.0
+
+# Data Import/Export
+openpyxl>=3.1.0
+
+# Optional: Enhanced data processing (if needed)
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Optional: Additional visualization (if you want to extend)
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: Performance optimization
+pyarrow>=12.0.0
+
+# Optional: Advanced statistical analysis
+statsmodels>=0.14.0
